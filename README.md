@@ -4,6 +4,6 @@ Suffix array based implementation of a basic read mapper that takes a reference 
 
 GUI made using Swing allows users to select input files and visualize aligned output.
 
-![Image](images/readmapper.png)
+![Image](MATTICK_JESSICA_COMP271_Final_Project/images/readmapper.PNG)
 
 Project for COMP 271 at LUC
