@@ -1,0 +1,18 @@
+>read1
+mi
+>read2
+miss
+>read3
+ss
+>
+si
+>
+ipp
+>
+pi
+>
+mississippi
+>
+11
+>
+this string is too long
